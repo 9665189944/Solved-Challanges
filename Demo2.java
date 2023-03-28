@@ -1,3 +1,8 @@
+
+//Writer Program Accept  String from the end user and reverse String Without changing the Vowels Position.
+//Inpute :-akhil
+//Outpute:-alhik
+
 package String;
 
 import java.util.Scanner;
