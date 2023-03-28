@@ -1,1 +1,1 @@
-# Solved-Challanges
+# Solved-Challenges
